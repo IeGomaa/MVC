@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "IeCourse\\": "app"
+    }
+  },
+  "require": {
+    "rakit/validation": "^1.4",
+    "ie_gomaa/mysqli-database-wrapper": "^1.0"
+  }
+}
